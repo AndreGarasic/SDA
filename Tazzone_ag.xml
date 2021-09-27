@@ -1,0 +1,7 @@
+<additional><routes><vType id="CAR" IcKeepRight="0" /></routes><tazs>
+
+
+<taz id="0" shape="0" />
+
+<taz id="1" color="red" shape="11337.588105756207,7745.4703513477 11184.76543432835,7521.421364074573"><tazSource id="-303867#0" weight="1" /><tazSink id="-303867#0" weight="1" /></taz><taz id="2" color="blue" shape="18591.65224793798,10735.019647387788 18439.164396293927,10510.787393497303"><tazSource id="-303250" weight="1" /><tazSink id="-303250" weight="1" /></taz></tazs>
+</additional>
